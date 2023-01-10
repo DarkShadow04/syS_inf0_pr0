@@ -67,9 +67,9 @@ echo "$hardware_info"
 echo "Disk Space:"
 df -h
 
-# List top 10 largest files and directories in current directory
-echo "Top 10 Largest Files and Directories:"
-du -sh * | sort -hr | head -n 10
+# List top 30 largest files and directories in current directory
+echo "Top 30 Largest Files and Directories:"
+du -sh * | sort -hr | head -n 30
 
 # Ask user if they want to generate a PDF report
 read -p "Do you want to generate a PDF report? [Y/n] " pdf_report
