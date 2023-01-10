@@ -7,7 +7,7 @@
   <p>A simple bash script to display various system information including system details, distribution details, hardware details, and storage details.</p>
 
   <h2>Usage</h2>
-  <p>Run the script in the terminal with <code>./system_info.sh</code>.</p>
+  <p>Run the script in the terminal with <code>sudo ./system_info.sh</code>.</p>
   <pre>
   <code>
     chmod +x system_info.sh
