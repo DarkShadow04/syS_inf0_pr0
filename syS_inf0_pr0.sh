@@ -21,7 +21,7 @@ _"
 
 echo -e "${random_color} system_info script by: Dark_Shadow04 ${reset}\n"
 echo -e "${random_color} https://github.com/DarkShadow04  ${reset}\n"
-echo -e "${random_color} Copyright 2020 Dark_Shadow04 ${reset}\n"
+echo -e "${random_color} Copyright 2022 Dark_Shadow04 ${reset}\n"
 
 
 # Get system information
